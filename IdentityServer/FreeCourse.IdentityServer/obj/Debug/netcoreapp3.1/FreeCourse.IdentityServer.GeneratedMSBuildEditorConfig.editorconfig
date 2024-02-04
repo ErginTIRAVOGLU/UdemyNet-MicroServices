@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FreeCourse.IdentityServer
+build_property.ProjectDir = C:\dev\csharp\UdemyMServices\IdentityServer\FreeCourse.IdentityServer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
