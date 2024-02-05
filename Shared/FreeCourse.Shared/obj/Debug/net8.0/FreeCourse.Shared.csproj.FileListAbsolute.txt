@@ -9,3 +9,4 @@ C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCours
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\refint\FreeCourse.Shared.dll
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.pdb
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\ref\FreeCourse.Shared.dll
+C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.sourcelink.json

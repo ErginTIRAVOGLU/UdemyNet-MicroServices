@@ -50,11 +50,12 @@ namespace FreeCourse.IdentityServer
                     applicationDbContext.Database.Migrate();
 
                     var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-
-                    if (!userManager.Users.Any())
+                    /*
+                    if (userManager.Users.Any())
                     {
                         userManager.CreateAsync(new ApplicationUser { UserName = "fcakiroglu16", Email = "f-cakiroglu@outlook.com", City = "Ankara" }, "Password12*").Wait();
                     }
+                    */
                 }
                 Log.Information("Starting host...");
                 host.Run();

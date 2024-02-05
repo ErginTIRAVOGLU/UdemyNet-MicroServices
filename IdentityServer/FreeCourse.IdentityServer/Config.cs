@@ -12,11 +12,11 @@ namespace FreeCourse.IdentityServer
     {
         public static IEnumerable<ApiResource> ApiResources => new ApiResource[]
         {
-            new ApiResource("resource_catelog"){Scopes={"catalog_fullpermission"}},
+            new ApiResource("resource_catalog"){Scopes={"catalog_fullpermission"}},
             new ApiResource("photo_stock_catalog"){Scopes={"photo_stock_fullpermission"}},
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName){Scopes={IdentityServerConstants.LocalApi.ScopeName}},
         };
-        
+
         public static IEnumerable<IdentityResource> IdentityResources =>
                    new IdentityResource[]
                    {
@@ -43,7 +43,7 @@ namespace FreeCourse.IdentityServer
                     ClientId="WebMvcClient",
                     ClientSecrets={new Secret("secret".Sha256())},
                     AllowedGrantTypes=GrantTypes.ClientCredentials,
-                    AllowedScopes={ "catalog_fullpermission", "photo_stock_catalog",IdentityServerConstants.LocalApi.ScopeName }
+                    AllowedScopes={ "catalog_fullpermission", "photo_stock_fullpermission", IdentityServerConstants.LocalApi.ScopeName }
                 }
                 /*
                 // m2m client credentials flow client
@@ -77,7 +77,7 @@ namespace FreeCourse.IdentityServer
                 },
                 */
             };
-        
+
 
     }
 }
