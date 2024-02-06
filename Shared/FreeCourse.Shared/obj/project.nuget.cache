@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lcnUZxBI09PCN1+IG6rL5mP7afEWbcwwHqywM/W7GOOBBHiYunigOTYZsl/Cw/773I67KVFwbxIeJboMXO4CNQ==",
+  "dgSpecHash": "JQyC/VJN7XTWjh5t/NOT/P5kfAj5HtLBwMGxX3cIaQgNFYfSPS3kpQcVAlJXhI2i58Jo56Qg6oqYibQPRGUySA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\csharp\\UdemyMServices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

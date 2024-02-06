@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZpgZ+UWqNDXIp8N9qFTwX6XcKgjQIXyRA+5+HZrj/hl+5roVeD65plHfOrlTMn18sFb2GSBUbRo5qfGuFximQQ==",
+  "dgSpecHash": "5q4knxaDQ3MDCArK1IJfWTtkgx2ps72POfpfxm0wsOCpq9ZLQC4LiRNr1qFczwjI9k6EA11QDhj7jevYLPUgRQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\csharp\\UdemyMServices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
+  "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ergin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ergin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cg+0wBoUsHMqeIb9yl0+qjLu2pWZi4sT1n/0iYjUdkOHxhKpMkK0n/wPxkalx2ffcuw4Hl0dxkt76dZPdbxc/A==",
+  "dgSpecHash": "fcTu5stQnORfb9t5mF325LRDSctO2S+xfWjpddFm6hHVoLQgIb6jYvXRx78IRoiVcfX23SSy3nUOgiJc4olk1Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\csharp\\UdemyMServices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
+  "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ergin\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\Ergin\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",
