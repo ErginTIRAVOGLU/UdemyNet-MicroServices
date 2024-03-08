@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zG3Qrgeq6sDlDJ81btLl8c61I95qFGNQaMyi9BC3nCGUZS4CXlryHdbcUovt5kB5f7fZVhg3ZVc6bVGK+4Yjzg==",
+  "dgSpecHash": "0Z5IgtlY4htCjkiaO05iCvdg0VRjhq7KyaDisZ4wbrC0ZssguuI1SnJ+JRCmauBTXJJ2WJxuTMVE0ZDYWqxOyQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -116,12 +116,5 @@
     "C:\\Users\\Ergin\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\Ergin\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\dev\\csharp\\UdemyNet-MicroServices\\IdentityServer\\FreeCourse.IdentityServer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

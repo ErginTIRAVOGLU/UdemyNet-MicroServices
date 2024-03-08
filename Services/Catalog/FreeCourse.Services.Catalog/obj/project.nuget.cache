@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5q4knxaDQ3MDCArK1IJfWTtkgx2ps72POfpfxm0wsOCpq9ZLQC4LiRNr1qFczwjI9k6EA11QDhj7jevYLPUgRQ==",
+  "dgSpecHash": "dn3rAcnS/vFt5QQlo3j13/STBaiV8jpbC2RfHAjhINg8a1UvGoPbXg3FtP8Dv4B73kKP8g+N57+ijBOOEpuS7w==",
   "success": true,
   "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\Services\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
@@ -35,12 +35,5 @@
     "C:\\Users\\Ergin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Ergin\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\dev\\csharp\\UdemyNet-MicroServices\\Services\\Catalog\\FreeCourse.Services.Catalog\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

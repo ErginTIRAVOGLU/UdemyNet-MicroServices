@@ -10,3 +10,15 @@ C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\refint\Fr
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.pdb
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\ref\FreeCourse.Shared.dll
 C:\dev\csharp\UdemyMServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.sourcelink.json
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.deps.json
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.dll
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\bin\Debug\net8.0\FreeCourse.Shared.pdb
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.AssemblyInfo.cs
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.sourcelink.json
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.dll
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\refint\FreeCourse.Shared.dll
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\FreeCourse.Shared.pdb
+C:\dev\csharp\UdemyNet-MicroServices\Shared\FreeCourse.Shared\obj\Debug\net8.0\ref\FreeCourse.Shared.dll

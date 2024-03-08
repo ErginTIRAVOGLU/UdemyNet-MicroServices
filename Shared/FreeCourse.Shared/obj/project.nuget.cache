@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQyC/VJN7XTWjh5t/NOT/P5kfAj5HtLBwMGxX3cIaQgNFYfSPS3kpQcVAlJXhI2i58Jo56Qg6oqYibQPRGUySA==",
+  "dgSpecHash": "2741X/+Kf62SVSBkBlnCiqEGlC3RkDqrY1KEdKcegK0RyOnF9SP8GvI2HX7dqTdMriPzmI6+hdgH6aAd/biCZg==",
   "success": true,
   "projectFilePath": "C:\\dev\\csharp\\UdemyNet-MicroServices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\dev\\csharp\\UdemyNet-MicroServices\\Shared\\FreeCourse.Shared\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

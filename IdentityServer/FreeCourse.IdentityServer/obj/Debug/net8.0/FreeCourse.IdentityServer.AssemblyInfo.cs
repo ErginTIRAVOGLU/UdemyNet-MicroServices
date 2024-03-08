@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeCourse.IdentityServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f68c7cb903db41167c08f32266a923fbe3139d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc89ef3024cb5b5b17b04a15f3271caee073837")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeCourse.IdentityServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeCourse.IdentityServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
